@@ -52,3 +52,7 @@ Opening a Jupyter session will utilize the default Python3 ipykernel.  However, 
 * Run: `ipython kernel install --user --name=name_of_venv`
 * To uninstall a kernel run: `jupyter kernelspec uninstall name_of_venv`
 * When you open a Jupyter session you should now be able to select the kernel you've created from your virtual environment.
+
+## GitHub
+
+* Be sure to create a GitHub account.  You'll also want to create a personal access token, as we'll authenticate with HTTPS for in-class examples.  See [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) for info on creating a token.
