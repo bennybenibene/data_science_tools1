@@ -16,7 +16,7 @@ Please select a project by the end of week 3 as per your preference. You are all
 The due dates and grade weight for the eight course assignments and the final project are detailed below.
 
 |Assignment|Due Date|Points|Grade Contribution|
-|----------|--------|------|------------------|
+|----------|--------|:------:|:------------------:|
 |HW1       |Before WK3 Live Session|3|4.21%|
 |HW2       |Before WK3 Live Session|5|7.02%|
 |HW3       |By end of Friday WK3|6|8.42%|
