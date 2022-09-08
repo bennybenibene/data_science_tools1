@@ -19,12 +19,12 @@ The due dates and grade weight for the eight course assignments and the final pr
 |----------|--------|------|------------------|
 |HW1       |Before WK3 Live Session|3|4.21%|
 |HW2       |Before WK3 Live Session|5|7.02%|
-|HW3       |By Friday of WK3|6|8.42%|
-|HW4       |By Friday of WK4|8|11.23%|
-|HW5       |By Friday of WK5|9|12.63%|
-|HW6       |By Friday of WK6|12|16.84%|
-|HW7       |By Friday of WK7|6|8.42%|
-|HW8       |By Friday of WK8|8|11.23%|
+|HW3       |By end of Friday WK3|6|8.42%|
+|HW4       |By end of Friday WK4|8|11.23%|
+|HW5       |By end of Friday WK5|9|12.63%|
+|HW6       |By end of Friday WK6|12|16.84%|
+|HW7       |By end of Friday WK7|6|8.42%|
+|HW8       |By end of Friday WK8|8|11.23%|
 |Final Project|Before WK10 Live Session|19.5|20.00%|
 
 ## Software Requirements
