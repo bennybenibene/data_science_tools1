@@ -11,6 +11,22 @@ For the final project, students will work through individual or team projects ap
 
 Please select a project by the end of week 3 as per your preference. You are allowed to have a group of 2 to 3 students but project work must justify team count. There will be a homework asking about the detail of your final project. We’ll provide feedback about feasibility of the final project.
 
+## Assignments
+
+The due dates and grade weight for the eight course assignments and the final project are detailed below.
+
+|Assignment|Due Date|Points|Grade Contribution|
+|----------|--------|------|------------------|
+|HW1       |Before WK3 Live Session|3|4.21%|
+|HW2       |Before WK3 Live Session|5|7.02%|
+|HW3       |By Friday of WK3|6|8.42%|
+|HW4       |By Friday of WK4|8|11.23%|
+|HW5       |By Friday of WK5|9|12.63%|
+|HW6       |By Friday of WK6|12|16.84%|
+|HW7       |By Friday of WK7|6|8.42%|
+|HW8       |By Friday of WK8|8|11.23%|
+|Final Project|Before WK10 Live Session|19.5|20.00%|
+
 ## Software Requirements
 
 ### Python
