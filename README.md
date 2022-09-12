@@ -55,7 +55,7 @@ We'll go over these steps during our first class, but I encourage your to build 
 * Create the virtual environment with `python3 -m venv venv` (The last argument here is the name of the virtual environment. Using venv simplifies things.)
 * Activate the virtual environment with `source venv/bin/activate` (This is our default interpreter until we end our session or `deactivate` the environment.)
 * Update pip: `pip install --upgrade pip`
-* Run: `curl -O https://github.com/bennybenibene/data_science_tools1/blob/master/requirements.txt` (The requirements.txt file will be saved in your working directory.)
+* Run: `curl -O https://raw.githubusercontent.com/bennybenibene/data_science_tools1/master/requirements.txt` (The requirements.txt file will be saved in your working directory.)
 * Run: `pip install -r requirements.txt` to install the packages in the requirements file.
 * If there are issues installing particular files you can try to install them individually.  For example, `pip install numpy==1.15.4`
 
