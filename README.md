@@ -17,7 +17,7 @@ The due dates and grade weight for the eight course assignments and the final pr
 
 |Assignment|Due Date|Points|Grade Contribution|
 |----------|--------|:------:|:------------------:|
-|HW1       |Before WK3 Live Session|3|4.21%|
+|HW1       |By end of Friday WK3|3|4.21%|
 |HW2       |Before WK3 Live Session|5|7.02%|
 |HW3       |By end of Friday WK3|6|8.42%|
 |HW4       |By end of Friday WK4|8|11.23%|
